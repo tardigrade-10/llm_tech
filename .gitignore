@@ -1,5 +1,8 @@
 .env
 env_config.py
+.chainlit
+.chroma
+
 
 __pycache__
 libs
