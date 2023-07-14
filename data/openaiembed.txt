@@ -1,0 +1,2 @@
+#sequence
+#  AgentExecuter(agent, tools, llm).run() -> Chain().run(input) -> __call__(inputs) -> input_preparation (adding variables values and memory) -> _call (inputs) -> _take_next_step(enter agent execution loop) -> agent.plan(steps) (plan and generate intermediate steps, action or final result)
