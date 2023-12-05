@@ -1,0 +1,17 @@
+{
+  "name": "llmjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "llmclient_test.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "llmclient": "^5.0.19",
+    "openai": "^4.12.4"
+  }
+}
