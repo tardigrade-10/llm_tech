@@ -8,3 +8,6 @@ __pycache__
 libs
 node_modules
 metagpt
+genslides
+
+nsfw_images
